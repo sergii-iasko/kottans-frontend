@@ -123,13 +123,9 @@ these commands should be used. I've got an idea of how important and tough that 
 
 ### Main :bookmark_tabs: 
 
-:white_check_mark: [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github):
-- week 3
-- week 4
+:white_check_mark: [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github)
 
 :white_check_mark: [learngitbranching.js.org](https://learngitbranching.js.org/?locale=uk):
-- Основи: Переміщуємо роботу туди-сюди
-- Віддалені репозиторії: Через origin – до зірок. Прогресивне використання Git Remotes
 
 ### Additional :bookmark_tabs:
 
@@ -148,8 +144,8 @@ despite vizuals. I guess there should be a lot more practice to deal with **Git*
 <summary>Task Completed :heavy_check_mark:</summary>
 
 ![Git 1](task_git_collaboration/Git_1.png)
-![Git 2](task_git_collaboration/Git_2.png)
-![Git 3](task_git_collaboration/Git_3.png)
+![Git Coursera Week 3](task_git_collaboration/Git_2.png)
+![Git Coursera Week 4](task_git_collaboration/Git_3.png)
 
 </details>
 
