@@ -138,7 +138,8 @@ these commands should be used. I've got an idea of how important and tough that 
 :yellow_circle: [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
 :yellow_circle: [GitHub Skills](https://skills.github.com/)
 
-**Short Summary**:
+**Short Summary**
+
 Again I had a good time on Coursera and where Kenny made everything pretty clear. While in gitbranching I found the topics much harder to understand 
 despite vizuals. I guess there should be a lot more practice to deal with **Git** especially with remote repos.
 </details>
