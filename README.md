@@ -119,31 +119,17 @@ these commands should be used. I've got an idea of how important and tough that 
 
 ## Git Collaboration
 
-<details><summary>Review</summary>
+<details><summary>Review :heavy_check_mark:</summary>
 
 ### Main :bookmark_tabs: 
 
-:black_square_button: [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github):
+:white_check_mark: [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github):
 - week 3
 - week 4
 
-:black_square_button: [learngitbranching.js.org](https://learngitbranching.js.org/?locale=uk):
+:white_check_mark: [learngitbranching.js.org](https://learngitbranching.js.org/?locale=uk):
 - Основи: Переміщуємо роботу туди-сюди
 - Віддалені репозиторії: Через origin – до зірок. Прогресивне використання Git Remotes
-    
-:black_square_button: ToDO!
-1. Зробіть скріншот своїх завершених уроків
-   і помістіть його в теку `task_git_collaboration`
-   вашого репо `kottans-frontend`
-1. В вашому `kottans-frontend` репо `README.md`:
-   - додайте заголовок `## Git Collaboration`
-   - додати скріншот або додати посилання на скріншот
-   - перерахуйте свої міркування щодо кожного пункту завдання
-     (_що для вас було новим_, _що вас здивувало_, _що ви плануєте використовувати в майбутньому_)
-1. Чудова робота! Діліться своїми досягненнями з іншими –
-   опублікувати повідомлення в [course channel][chat]:
-   `Git Collaboration — #done` (або `Git Collaboration — #p2p_done` якщо ви студент курсу p2p) і додайте посилання до свого репо. **Цей крок важливий, оскільки він допомагає менторам відстежувати ваш прогрес!**
-
 
 ### Additional :bookmark_tabs:
 
@@ -153,11 +139,12 @@ these commands should be used. I've got an idea of how important and tough that 
 :yellow_circle: [GitHub Skills](https://skills.github.com/)
 
 **Short Summary**:
+Again I had a good time on Coursera and where Kenny made everything pretty clear. While in gitbranching I found the topics much harder to understand 
+despite vizuals. I guess there should be a lot more practice to deal with **Git** especially with remote repos.
 
-</details>
-
-<details>
-<summary>Task Completed</summary>
+![Git 1](task_git_collaboration/Git_1.png)
+![Git 2](task_git_collaboration/Git_2.png)
+![Git 3](task_git_collaboration/Git_3.png)
 
 </details>
 
