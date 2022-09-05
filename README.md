@@ -142,6 +142,9 @@ these commands should be used. I've got an idea of how important and tough that 
 Again I had a good time on Coursera and where Kenny made everything pretty clear. While in gitbranching I found the topics much harder to understand 
 despite vizuals. I guess there should be a lot more practice to deal with **Git** especially with remote repos.
 
+<details>
+<summary>Task Completed :heavy_check_mark:</summary>
+
 ![Git 1](task_git_collaboration/Git_1.png)
 ![Git 2](task_git_collaboration/Git_2.png)
 ![Git 3](task_git_collaboration/Git_3.png)
