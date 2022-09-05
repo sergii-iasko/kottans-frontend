@@ -13,9 +13,9 @@ I've created a separate folder with [Educational Notes](notes/readme.md)
 
 - [x] 0. [Git Basics](#git-and-github) :heavy_check_mark:
 - [x] 1. [Linux CLI and Networking](#linux-cli-and-http) :heavy_check_mark:
-- [ ] 2. [VCS (hello gitty), GitHub and Collaboration](#git-collaboration) :arrow_forward:
+- [x] 2. [VCS (hello gitty), GitHub and Collaboration](#git-collaboration) :heavy_check_mark:
 ## Front-End Basics
-- [ ] 3. Intro to HTML & CSS
+- [ ] 3. [Intro to HTML & CSS](#intro-to-html-and-css) :arrow_forward:
 - [ ] 4. Responsive Web Design
 - [ ] 5. HTML & CSS Practice
 - [ ] 6. JavaScript Basics
@@ -123,15 +123,14 @@ these commands should be used. I've got an idea of how important and tough that 
 
 ### Main :bookmark_tabs: 
 
-:white_check_mark: [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github)
-
-:white_check_mark: [learngitbranching.js.org](https://learngitbranching.js.org/?locale=uk):
+:white_check_mark: [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github)<br>
+:white_check_mark: [learngitbranching.js.org](https://learngitbranching.js.org/?locale=uk)
 
 ### Additional :bookmark_tabs:
 
-:yellow_circle: [An Introduction to Git and GitHub by Brian Yu (CS50 course), video, ~40 min.](https://youtu.be/MJUJ4wbFm_A)
-:yellow_circle: [Oh shit, git!](http://ohshitgit.com/)
-:yellow_circle: [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
+:yellow_circle: [An Introduction to Git and GitHub by Brian Yu (CS50 course), video, ~40 min.](https://youtu.be/MJUJ4wbFm_A)<br>
+:yellow_circle: [Oh shit, git!](http://ohshitgit.com/)<br>
+:yellow_circle: [Flight rules for git](https://github.com/k88hudson/git-flight-rules)<br>
 :yellow_circle: [GitHub Skills](https://skills.github.com/)
 
 **Short Summary**
@@ -149,16 +148,48 @@ despite vizuals. I guess there should be a lot more practice to deal with **Git*
 
 </details>
 
-## 3. Intro to HTML & CSS 
-In progress
-
-In progress
+## Intro to HTML and CSS
 
 <details><summary>Review</summary>
 
 ### Main :bookmark_tabs:
 
+1. Прослухайте тижні 1 і 2 (до Introduction to Responsive Design) курсу [Intro to HTML & CSS](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
+
+   Ви можете вдатися до автоматично перекладених субтитрів, зокрема, якщо ви відчуваєте що
+   це допоможе вам краще засвоїти відеокурс.
+
+1. [Learn HTML(Eng)](https://www.codecademy.com/learn/learn-html)
+
+1. [Learn CSS(Eng)](https://www.codecademy.com/learn/learn-css)
+
+Після завершення виконайте наступне:
+1. Зробіть скріншот своїх завершених уроків
+   і помістіть його в теку `task_html_css_intro`
+   вашого репо `kottans-frontend`
+1. В вашому `kottans-frontend` репо `README.md`:
+   - додайте заголовок `## Intro to HTML and CSS`
+   - додати скріншот або додати посилання на скріншот
+   - перерахуйте свої міркування щодо кожного пункту завдання
+     (_що для вас було новим_, _що вас здивувало_, _що ви плануєте використовувати в майбутньому_)
+1. Чудова робота! Діліться своїми досягненнями з іншими –
+   опублікувати повідомлення в [course channel][chat]:
+   `Intro to HTML and CSS — #done` (або `Intro to HTML and CSS — #p2p_done` якщо ви студент курсу p2p) і додайте посилання до свого репо. **Цей крок важливий, оскільки він допомагає менторам відстежувати ваш прогрес!**
+1. Вивчіть додаткові матеріали нижче, щоб покращити свої навички.
+    Якщо ви вважаєте, що це вплине на вашу загальну ефективність курсу, подумайте над тим, щоб
+    повернутись до них пізніше, наприклад коли ви виконаєте всі обов’язкові завдання.
+1. Ви можете пропустити опціональні матеріали з цього завдання (якщо такі є).
+
 ### Additional :bookmark_tabs:
+
+- [HTML уроки (з 3 по 7 відео)](https://www.youtube.com/watch?v=z3GS5oYGq5U&list=PLM6XATa8CAG4uCli-pMvuvwj46UaQoqIc&index=4)
+- [CSS уроки (з 9 по 15 відео)](https://www.youtube.com/watch?v=z3GS5oYGq5U&list=PLM6XATa8CAG4uCli-pMvuvwj46UaQoqIc&index=4)
+- [Learn HTML(Eng)](https://www.codecademy.com/learn/learn-html)
+- [Learn CSS(Eng)](https://www.codecademy.com/learn/learn-css)
+- [freecodecamp.org](https://www.freecodecamp.org)
+- [Intro to HTML @github](https://lab.github.com/githubtraining/introduction-to-html)
+- [Can't Unsee](https://cantunsee.space/) - brilliant and useful challenge
+- [Publish your static web site using GitHub Pages](https://lab.github.com/githubtraining/github-pages)
 
 **Short Summary**:
 
