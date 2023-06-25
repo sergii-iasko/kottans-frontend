@@ -115,7 +115,7 @@ _*Branch*_ - a pointer to a particular commit. Rather can be thougt as a separat
 
 `git branch -d [name]` delete branch
 
-`git branch -D [name] delete branch even if it has uncommited changes
+`git branch -D [name]` delete branch even if it has uncommited changes
 
 `git merge [name]` adds changes from branch into currently checked out.
 
