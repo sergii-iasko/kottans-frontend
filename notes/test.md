@@ -9,6 +9,12 @@
 
 :white_check_mark:
 
+📗
+
+- [/] Install VS Code 🔽 📅 2024-03-14
+
+
+> [!TODO]- To-Do:
 
 
 
