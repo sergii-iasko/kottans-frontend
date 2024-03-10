@@ -11,7 +11,7 @@
 
 📗
 
-- [/] Install VS Code 🔽 📅 2024-03-14
+- [x] Install VS Code 🔽 📅 2024-03-14
 
 
 > [!TODO]- To-Do:
