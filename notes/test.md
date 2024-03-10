@@ -17,7 +17,7 @@
 >
 >Line
 
-```spreadsheet
+```excel
 =INDEX(A1:G4, MATCH(G7, A1:G1,0),3)
 ```
 
