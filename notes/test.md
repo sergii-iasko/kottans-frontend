@@ -1,10 +1,13 @@
-	- [ ] Productivity Tips
+- [ ] Productivity Tips
 	- [ ] Personalize
 	- [ ] Extensions
 	- [ ] Debugging
 	- [ ] Version Control
-	- [ ] Customize
+- [ ] Customize
 - [ ] Презентація до лекції
+
+
+:white_check_mark:
 
 
 
